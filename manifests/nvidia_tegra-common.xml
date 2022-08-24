@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="kernel/nvidia/linux-4.9/hardware/nvidia/soc/tegra" name="android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra" remote="github" />
+	<project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/tegra/common" name="android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common" remote="github" />
+	<project path="device/nvidia/tegra-common" name="android_device_nvidia_tegra-common" remote="github" />
+	<project path="hardware/nvidia/soc/tegra" name="android_hardware_nvidia_soc_tegra" remote="github" />
+	<project path="device/nvidia/sepolicy" name="android_device_nvidia_sepolicy" remote="github" />	
+	<!---<project path="platform/hardware/nvidia/audio" name="platform/hardware/nvidia/audio" remote="aosp" />
+	<project path="platform/hardware/nvidia/tegra124" name="platform/hardware/nvidia/tegra124" remote="aosp" />
+	<project path="kernel/tegra" name="kernel/tegra" remote="aosp" />
+	--->
+</manifest>
